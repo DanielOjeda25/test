@@ -6,10 +6,10 @@ import { initializeSmoothScroll } from "./smoothScroll.js";
 import { initializeScroller } from "./locomotiveScroll.js";
 
 initializeDarkMode();
-initializeSwiper();
 
 const mainComponent = MainComponent();
 document.body.appendChild(mainComponent);
+initializeSwiper();
 
 const scroller = initializeScroller();
 initializeSmoothScroll(scroller);
