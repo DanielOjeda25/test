@@ -42,23 +42,23 @@ export function MainComponent() {
           <div class="swiper-wrapper">
             <div class="swiper-slide">
               <h1 class="slide-title"></h1>
-              <img src="https://via.placeholder.com/780x400/2f2f2f/fbfbf0?text=Slide+1" alt="Swiper">
+              <img src="https://dummyimage.com/780x400/000/fff&text=Slide+1" alt="Swiper">
             </div>
             <div class="swiper-slide">
               <h1 class="slide-title"></h1>
-              <img src="https://via.placeholder.com/780x400/2f2f2f/fbfbf0?text=Slide+2" alt="Swiper">
+              <img src="https://dummyimage.com/780x400/000/fff&text=Slide+2" alt="Swiper">
             </div>
             <div class="swiper-slide">
               <h1 class="slide-title"></h1>
-              <img src="https://via.placeholder.com/780x400/2f2f2f/fbfbf0?text=Slide+3" alt="Swiper">
+              <img src="https://dummyimage.com/780x400/000/fff&text=Slide+3" alt="Swiper">
             </div>
             <div class="swiper-slide">
               <h1 class="slide-title"></h1>
-              <img src="https://via.placeholder.com/780x400/2f2f2f/fbfbf0?text=Slide+4" alt="Swiper">
+              <img src="https://dummyimage.com/780x400/000/fff&text=Slide+4" alt="Swiper">
             </div>
             <div class="swiper-slide">
               <h1 class="slide-title"></h1>
-              <img src="https://via.placeholder.com/780x400/2f2f2f/fbfbf0?text=Slide+5" alt="Swiper">
+              <img src="https://dummyimage.com/780x400/000/fff&text=Slide+5" alt="Swiper">
             </div>
           </div>
         </div>
